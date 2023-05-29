@@ -1,5 +1,5 @@
 # -3-DAY-DATA-SCIENCE-WORKSHOP
-conduct a workshop for my college cse students for giving them all basic knowledge about python and data science and analysing from scratch !
+conduct a workshop for my college cse students for giving them all basic knowledge about python and data science and analysing from scratch!
 we can learn to analyze the data of airline with the help of different libraries of python. also we deals with the various concept of data science
 
 ## 3-DAY-DATA-SCIENCE-WORKSHOP-WITH-CODERS-READY
